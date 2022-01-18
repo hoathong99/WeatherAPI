@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "aubcThufPCI37LRDIGqO277z5HwbmvDd4nFHpXT70Ck=",
+  "Source": "WeatherAPI",
+  "BasePath": "_content/WeatherAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAPI\\wwwroot",
+      "Source": "WeatherAPI",
+      "ContentRoot": "D:\\Indie project\\WeatherUpdate\\WeatherAPI\\wwwroot\\",
+      "BasePath": "_content/WeatherAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Indie project\\WeatherUpdate\\WeatherAPI\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "WeatherAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Indie project\\WeatherUpdate\\WeatherAPI\\wwwroot\\",
+      "BasePath": "_content/WeatherAPI",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "D:\\Indie project\\WeatherUpdate\\WeatherAPI\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "WeatherAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Indie project\\WeatherUpdate\\WeatherAPI\\wwwroot\\",
+      "BasePath": "_content/WeatherAPI",
+      "RelativePath": "js/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    }
+  ]
+}

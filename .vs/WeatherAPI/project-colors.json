@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c28cd06-ab84-461d-aa92-94c75feed6a3": {
+      "ProjectGuid": "3c28cd06-ab84-461d-aa92-94c75feed6a3",
+      "DisplayName": "WeatherAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
